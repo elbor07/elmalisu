@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+env/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Pytest
+.cache
+
+# mypy
+.mypy_cache/
+
+# Python virtual environments
+.env
+.venv
